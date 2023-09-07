@@ -7,7 +7,7 @@
 
 ## Instalation
 
-###python-telegram-bot
+
 ```bash
 pip install  python-telegram-bot==13.7
 ```
